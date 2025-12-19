@@ -37,4 +37,4 @@ Link to interactive Tableau dashboard: https://public.tableau.com/app/profile/an
 
 This project is currently maintained by Sai Srikar Vechalapu, a Data Analyst with expertise in SQL, Python, and data visualization.
 
-Contact: vsrikar2025@gmail.com | Linkedin: https://www.linkesin.com/in/srikarvechalapu/
+Contact: vsrikar2025@gmail.com | Linkedin: https://www.linkedin.com/in/srikarvechalapu/
