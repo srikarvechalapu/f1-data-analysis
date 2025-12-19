@@ -1,4 +1,4 @@
-```markdown
+
 <img width="1329" alt="Screenshot 2023-12-30 at 12 06 02" src="https://github.com/andrewgrahampowell/f1-data-analysis/assets/98211756/37f73cd5-8d2e-41c7-af2d-13e7bee6f097">
 
 # F1 Data Analysis Project
@@ -38,4 +38,3 @@ Link to interactive Tableau dashboard: https://public.tableau.com/app/profile/an
 This project is currently maintained by Sai Srikar Vechalapu, a Data Analyst with expertise in SQL, Python, and data visualization.
 
 Contact: vsrikar2025@gmail.com | linkedin.com/in/srikarvechalapu
-```
